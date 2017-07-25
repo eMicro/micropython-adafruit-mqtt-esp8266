@@ -1,3 +1,8 @@
+Show temperature and humidity on adafruit io
+https://io.adafruit.com/eMicro/dashboards/startup-house
+
+
+
 #Using MQTT to publish sensor data to Adafruit IO with Micropython on ESP8266
 This project involved using the MQTT protocol to publish sensor data to the Adafruit IO cloud service (https://io.adafruit.com).  
 The implementation was done with Micropython on an ESP8266 platform.
